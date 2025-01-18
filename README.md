@@ -96,10 +96,6 @@ Your app will now be live on Netlify!
 - **Voice Input**: Implement speech-to-text for a more interactive experience.
 - **Social Sharing**: Enable users to share their dream results on social media.
 
-## 📄 License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
 ## 🤝 Contributing
 
 Contributions are always welcome! If you have suggestions, improvements, or features you'd like to add, feel free to fork the repository and submit a pull request.
